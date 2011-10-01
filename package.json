@@ -1,0 +1,16 @@
+{
+    "name": "bean.notify.growl",
+    "description": "growl notification bean",
+    "version": "0.0.1",
+    "author": "Craig Condon",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/spiceapps/bean.notify.growl.git"
+    },
+    
+    "dependencies": {
+        "growl":"*"
+    },
+    
+    "main": "./plugin/index.js"
+}
