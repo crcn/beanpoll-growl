@@ -1,4 +1,9 @@
 ### Growl notifications for your beanpole-based app
+
+
+#### Requirements
+
+- growlnotify         
     
 #### How easy is it to implement?
                             
