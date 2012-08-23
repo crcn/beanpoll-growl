@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/crcn/beanpoll-growl.png)](http://travis-ci.org/crcn/beanpoll-growl)
 ### Growl notifications for your beanpole-based app
 
 
